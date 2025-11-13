@@ -16,7 +16,7 @@ import heater from '../assets/electric/heater.jpg';
 import sound from '../assets/electric/sound.avif';
 
 import phase from '../assets/electric/3phase.webp';
-import cooler from '../assets/electric/Cooler.webp';
+import cooler from '../assets/electric/cooler.webp';
 
 
 import tapRepair from "../assets/tap_repair.jpg";
@@ -155,13 +155,10 @@ const getServiceImage = (serviceName, category) => {
       inverter,
     "Inverter fuse replacement":
       "https://images.unsplash.com/photo-1593642532400-2682810df593?w=400&h=300&fit=crop",
-    "Inverter servicing":
-      inverter,
-    "Stabilizer installation":
-     stablizer,
-     "Inverter fuse replacement":fuse,
-    "Room heater repair":
-      heater,
+    "Inverter servicing":inverter,
+    "Stabilizer installation": stablizer,
+    "Inverter fuse replacement":fuse,
+    "Room heater repair":heater,
     "Door bell installation":
       "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=400&h=300&fit=crop",
     "Door bell replacement":
