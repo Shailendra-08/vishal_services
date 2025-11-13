@@ -159,7 +159,7 @@ const getServiceImage = (serviceName, category) => {
       inverter,
     "Stabilizer installation":
      stablizer,
-     'Inverter fuse replacement':fuse,
+     "Inverter fuse replacement":fuse,
     "Room heater repair":
       heater,
     "Door bell installation":
