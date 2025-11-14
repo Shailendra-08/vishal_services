@@ -14,13 +14,13 @@ function Contact() {
 
       <div className="contact-card">
         <div className="contact-icon">👤</div>
-        <h2>Vishal Patel</h2>
+        <h2>Vishal Mesharam</h2>
         <p className="contact-role">Owner & Service Professional</p>
 
         <div className="contact-details">
           <div className="contact-item">
             <span className="contact-label">Phone:</span>
-            <a href="tel:+919876543210" className="contact-value">+91 98765 43210</a>
+            <a href="tel:+919876543210" className="contact-value">+91 7499937772</a>
           </div>
 
           <div className="contact-item">

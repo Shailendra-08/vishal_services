@@ -405,7 +405,7 @@ function Services() {
     const message = encodeURIComponent(
       `Hello, I'd like to book ${serviceName}`
     );
-    window.open(`https://wa.me/919876543210?text=${message}`, "_blank");
+    window.open(`https://wa.me/917499937772?text=${message}`, "_blank");
   };
 
   return (
