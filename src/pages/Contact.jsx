@@ -1,3 +1,4 @@
+import vishal from "../assets/vishal.jpg";
 function Contact() {
   const handleWhatsAppClick = () => {
     window.open('https://wa.me/919876543210', '_blank');
@@ -13,7 +14,13 @@ function Contact() {
       <p className="contact-subtitle">Get in touch for quality service</p>
 
       <div className="contact-card">
-        <div className="contact-icon">👤</div>
+        <div className="contact-icon"><img src={vishal} alt="contact icon"  style={{
+    width: "200px",
+    height: "200px",
+    borderRadius: "50%",
+    objectFit: "cover",
+  }}/>
+ </div>
         <h2>Vishal Mesharam</h2>
         <p className="contact-role">Owner & Service Professional</p>
 
